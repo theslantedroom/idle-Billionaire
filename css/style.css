@@ -1,0 +1,24 @@
+
+
+.kitty{
+	margin: auto;
+	width: 80px;
+	height: 80px;
+	background-image: url(../img/kitty0.png);
+	background-size: cover;
+	background-position: center;
+	transition: all 1200ms ease-in-out;
+}
+
+.makeBig{
+width: 100%;
+}
+
+#catMeter{
+width: 100%;
+height: 100%;
+background-size: cover;
+background-position: center;
+background-color: rgba(90, 11, 11, 0.66);
+transition: all 200ms;
+}
