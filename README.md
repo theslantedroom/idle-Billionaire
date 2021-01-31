@@ -1,2 +1,2 @@
-# fractalForest
-Code fractals
+# forward to Idle Trillionaire
+
