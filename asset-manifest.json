@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/idle-Trillionaire/static/css/main.711284d3.chunk.css",
-    "main.js": "/idle-Trillionaire/static/js/main.659cffa4.chunk.js",
-    "main.js.map": "/idle-Trillionaire/static/js/main.659cffa4.chunk.js.map",
-    "runtime-main.js": "/idle-Trillionaire/static/js/runtime-main.5b1daacc.js",
-    "runtime-main.js.map": "/idle-Trillionaire/static/js/runtime-main.5b1daacc.js.map",
+    "main.js": "/idle-Trillionaire/static/js/main.fe0e5450.chunk.js",
+    "main.js.map": "/idle-Trillionaire/static/js/main.fe0e5450.chunk.js.map",
+    "runtime-main.js": "/idle-Trillionaire/static/js/runtime-main.ca4d9686.js",
+    "runtime-main.js.map": "/idle-Trillionaire/static/js/runtime-main.ca4d9686.js.map",
     "static/css/2.31461e4f.chunk.css": "/idle-Trillionaire/static/css/2.31461e4f.chunk.css",
-    "static/js/2.e6e9cb02.chunk.js": "/idle-Trillionaire/static/js/2.e6e9cb02.chunk.js",
-    "static/js/2.e6e9cb02.chunk.js.map": "/idle-Trillionaire/static/js/2.e6e9cb02.chunk.js.map",
-    "static/js/3.ee378a08.chunk.js": "/idle-Trillionaire/static/js/3.ee378a08.chunk.js",
-    "static/js/3.ee378a08.chunk.js.map": "/idle-Trillionaire/static/js/3.ee378a08.chunk.js.map",
+    "static/js/2.b263856a.chunk.js": "/idle-Trillionaire/static/js/2.b263856a.chunk.js",
+    "static/js/2.b263856a.chunk.js.map": "/idle-Trillionaire/static/js/2.b263856a.chunk.js.map",
+    "static/js/3.93b26e51.chunk.js": "/idle-Trillionaire/static/js/3.93b26e51.chunk.js",
+    "static/js/3.93b26e51.chunk.js.map": "/idle-Trillionaire/static/js/3.93b26e51.chunk.js.map",
     "index.html": "/idle-Trillionaire/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/idle-Trillionaire/static/css/2.31461e4f.chunk.css.map",
     "static/css/main.711284d3.chunk.css.map": "/idle-Trillionaire/static/css/main.711284d3.chunk.css.map",
-    "static/js/2.e6e9cb02.chunk.js.LICENSE.txt": "/idle-Trillionaire/static/js/2.e6e9cb02.chunk.js.LICENSE.txt",
+    "static/js/2.b263856a.chunk.js.LICENSE.txt": "/idle-Trillionaire/static/js/2.b263856a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/idle-Trillionaire/static/media/TT0589M_.ae34b45a.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b1daacc.js",
+    "static/js/runtime-main.ca4d9686.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.e6e9cb02.chunk.js",
+    "static/js/2.b263856a.chunk.js",
     "static/css/main.711284d3.chunk.css",
-    "static/js/main.659cffa4.chunk.js"
+    "static/js/main.fe0e5450.chunk.js"
   ]
 }
